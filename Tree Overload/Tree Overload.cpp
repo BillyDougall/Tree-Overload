@@ -46,7 +46,7 @@ struct Fire {
 //};
 
 struct Tree {
-	enum TreeStats {
+	enum TreeStats { // hello
 	
 	};
 
